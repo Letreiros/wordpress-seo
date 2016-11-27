@@ -15,31 +15,20 @@
     </custom-fields>
     <admin-texts>
         <key name="wpseo_titles">
-            <key name="title-home-wpseo" />
-            <key name="metadesc-home-wpseo" />
-            <key name="metakey-home-wpseo" />
-            <key name="title-post" />
-            <key name="metadesc-post" />
-            <key name="metakey-post" />
-            <key name="title-page" />
-            <key name="metadesc-page" />
-            <key name="metakey-page" />
-            <key name="title-attachment" />
-            <key name="metadesc-attachment" />
-            <key name="metakey-attachment" />
-            <key name="title-category" />
-            <key name="metadesc-category" />
-            <key name="metakey-category" />
-            <key name="title-tax-post_tag" />
-            <key name="metadesc-tax-post_tag" />
-            <key name="metakey-tax-post_tag" />
-            <key name="title-author-wpseo" />
-            <key name="metadesc-author-wpseo" />
-            <key name="metakey-author-wpseo" />
-            <key name="title-archive-wpseo" />
-            <key name="metadesc-archive-wpseo" />
-            <key name="title-search-wpseo" />
-            <key name="title-404-wpseo" />
+            <meta name="description" content="Letreiros - Fabricamos todos os tipo de Letreiros - Aço Inox Polido! Produtos sob medida para empresas, e com a melhor qualidade do mercado."/>
+<meta name="robots" content="noodp"/>
+<meta name="keywords" content="Letreiros"/>
+<link rel="canonical" href="http://fabriletras.com.br/letreiros/" />
+<meta property="og:locale" content="pt_BR" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Letreiros - Comunicação Visual no Rio de Janeiro - Barra da Tijuca - Niteró" />
+<meta property="og:description" content="Letreiros - Fabricamos todos os tipo de Letreiros - Aço Inox Polido! Produtos sob medida para empresas, e com a melhor qualidade do mercado." />
+<meta property="og:url" content="http://fabriletras.com.br/letreiros/" />
+<meta property="article:publisher" content="https://www.facebook.com/WWW.FABRILETRAS.COM.BR" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:description" content="Letreiros - Fabricamos todos os tipo de Letreiros - Aço Inox Polido! Produtos sob medida para empresas, e com a melhor qualidade do mercado." />
+<meta name="twitter:title" content="Letreiros - Comunicação Visual no Rio de Janeiro - Barra da Tijuca - Niteró" />
+<meta property="DC.date.issued" content="2016-11-04T23:41:34+00:00" />
         </key>
         <key name="wpseo_internallinks">
             <key name="breadcrumbs-sep" />
